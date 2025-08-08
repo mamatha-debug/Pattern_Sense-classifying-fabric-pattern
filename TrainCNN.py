@@ -11,7 +11,7 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropou
 
 # Load and preprocess data
 img_size = 128
-data_dir = r"D:\projectfabric\Fabric\Clothing Pattern Classification Dataset (MD-Fashion-2)_Samples"
+data_dir = r"C:\Users\Hi\Downloads\Fabric\Fabric"
 
 
 X, y = [], []
