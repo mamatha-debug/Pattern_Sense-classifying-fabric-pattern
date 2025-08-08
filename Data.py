@@ -6,7 +6,7 @@ from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 img_size = 128
-data_dir = r"D:\projectfabric\Fabric\Clothing Pattern Classification Dataset (MD-Fashion-2)_Samples"
+data_dir = r"C:\Users\Hi\Downloads\Fabric\Fabric"
 
 
 X, y = [], []
